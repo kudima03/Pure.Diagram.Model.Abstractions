@@ -4,4 +4,12 @@
     <LangVersion>latest</LangVersion>
     <IsAotCompatible>true</IsAotCompatible>
   </PropertyGroup>
+  <PropertyGroup>
+    <PackageId>Pure.Diagram.Model.Abstractions</PackageId>
+    <RootNamespace>Pure.Diagram.Model.Abstractions</RootNamespace>
+    <AssemblyName>Pure.Diagram.Model.Abstractions</AssemblyName>
+    <Authors>Dmitry Kurochkin</Authors>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageProjectUrl>https://github.com/kudima03/Pure.Diagram.Model.Abstractions</PackageProjectUrl>
+  </PropertyGroup>
 </Project>
