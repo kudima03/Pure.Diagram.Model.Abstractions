@@ -11,5 +11,5 @@ public interface IDiagram
 
     public IDiagramType Type { get; }
 
-    public IEnumerable<ISeries> Series { get; }
+    public IEnumerable<IDiagramSeries> Series { get; }
 }

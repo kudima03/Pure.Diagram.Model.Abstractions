@@ -2,7 +2,7 @@ using Pure.Primitives.Abstractions.String;
 
 namespace Pure.Diagram.Model.Abstractions;
 
-public interface ISeries
+public interface IDiagramSeries
 {
     public IString Label { get; }
 
